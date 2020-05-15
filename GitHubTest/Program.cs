@@ -14,7 +14,7 @@ namespace GitHubTest
             // testing
             //Branch MSs
             //MS1
-            //Mandeep
+            //Mandeep1
         }
     }
 }
