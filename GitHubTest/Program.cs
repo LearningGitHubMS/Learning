@@ -12,7 +12,7 @@ namespace GitHubTest
         {
             //Created By Mandeep h singh 15
             // testing
-            //Branch MS
+            //Branch MSs
         }
     }
 }
